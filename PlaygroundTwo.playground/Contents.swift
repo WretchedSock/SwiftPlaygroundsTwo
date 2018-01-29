@@ -15,8 +15,12 @@ if goodGrade == "I've been doing all my work"
     if goodGrade == "I'm not doing very well"
     {print("I'm not doing well in this class") }
 else { print("Good job!")} //Just chilling, waiting
+if goodGrade == "I want to eat lots of food"
+{print("Too bad, wait")} //My own take on the conditional
+
 
 //Part 4
+
 if goodGrade == "I've been doing all my work"
 {print("I'm doing well in this class")}
 else {print("I'm not doing too well") }
